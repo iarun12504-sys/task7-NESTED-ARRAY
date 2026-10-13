@@ -1,0 +1,216 @@
+
+{
+  "countries": [
+    {
+      "countryId": "C-01",
+      "countryName": "India",
+      "states": [
+        {
+          "stateId": "S-01",
+          "stateName": "Tamil Nadu",
+          "schools": [
+            {
+              "schoolId": "SCH-01",
+              "schoolName": "City Model School",
+              "departments": [
+                {
+                  "departmentId": "DEP-01",
+                  "departmentName": "Science",
+                  "students": [
+                    {
+                      "studentId": "ST-01",
+                      "name": "Arun",
+                      "age": 16,
+                      "grade": "10-A",
+                      "email": "arun@gmail.com"
+                    },
+                    {
+                      "studentId": "ST-02",
+                      "name": "Karthik",
+                      "age": 15,
+                      "grade": "9-B",
+                      "email": "karthik@gmail.com"
+                    }
+                  ]
+                },
+                {
+                  "departmentId": "DEP-02",
+                  "departmentName": "Commerce",
+                  "students": [
+                    {
+                      "studentId": "ST-03",
+                      "name": "Priya",
+                      "age": 16,
+                      "grade": "10-C",
+                      "email": "priya@gmail.com"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "schoolId": "SCH-02",
+              "schoolName": "Green Valley School",
+              "departments": [
+                {
+                  "departmentId": "DEP-03",
+                  "departmentName": "Mathematics",
+                  "students": [
+                    {
+                      "studentId": "ST-04",
+                      "name": "Vijay",
+                      "age": 14,
+                      "grade": "8-A",
+                      "email": "vijay@gmail.com"
+                    },
+                    {
+                      "studentId": "ST-05",
+                      "name": "Anitha",
+                      "age": 14,
+                      "grade": "8-B",
+                      "email": "anitha@gmail.com"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "schoolId": "SCH-03",
+              "schoolName": "Royal Matric School",
+              "departments": [
+                {
+                  "departmentId": "DEP-04",
+                  "departmentName": "Computer Science",
+                  "students": [
+                    {
+                      "studentId": "ST-06",
+                      "name": "Suresh",
+                      "age": 17,
+                      "grade": "11-A",
+                      "email": "suresh@gmail.com"
+                    },
+                    {
+                      "studentId": "ST-07",
+                      "name": "Meena",
+                      "age": 17,
+                      "grade": "11-B",
+                      "email": "meena@gmail.com"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "schoolId": "SCH-04",
+              "schoolName": "St Mary School",
+              "departments": [
+                {
+                  "departmentId": "DEP-05",
+                  "departmentName": "Arts",
+                  "students": [
+                    {
+                      "studentId": "ST-08",
+                      "name": "Rahul",
+                      "age": 16,
+                      "grade": "10-D",
+                      "email": "rahul@gmail.com"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "schoolId": "SCH-05",
+              "schoolName": "Oxford Public School",
+              "departments": [
+                {
+                  "departmentId": "DEP-06",
+                  "departmentName": "History",
+                  "students": [
+                    {
+                      "studentId": "ST-09",
+                      "name": "Sneha",
+                      "age": 15,
+                      "grade": "9-A",
+                      "email": "sneha@gmail.com"
+                    },
+                    {
+                      "studentId": "ST-10",
+                      "name": "Ramesh",
+                      "age": 15,
+                      "grade": "9-C",
+                      "email": "ramesh@gmail.com"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "stateId": "S-02",
+          "stateName": "Karnataka",
+          "schools": [
+            {
+              "schoolId": "SCH-06",
+              "schoolName": "Bangalore Public School",
+              "departments": [
+                {
+                  "departmentId": "DEP-07",
+                  "departmentName": "Physics",
+                  "students": [
+                    {
+                      "studentId": "ST-11",
+                      "name": "Naveen",
+                      "age": 16,
+                      "grade": "10-A",
+                      "email": "naveen@gmail.com"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "countryId": "C-02",
+      "countryName": "USA",
+      "states": [
+        {
+          "stateId": "S-03",
+          "stateName": "California",
+          "schools": [
+            {
+              "schoolId": "SCH-07",
+              "schoolName": "Sunrise Public School",
+              "departments": [
+                {
+                  "departmentId": "DEP-08",
+                  "departmentName": "Economics",
+                  "students": [
+                    {
+                      "studentId": "ST-12",
+                      "name": "John",
+                      "age": 17,
+                      "grade": "11-A",
+                      "email": "john@gmail.com"
+                    },
+                    {
+                      "studentId": "ST-13",
+                      "name": "Emma",
+                      "age": 16,
+                      "grade": "10-B",
+                      "email": "emma@gmail.com"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
